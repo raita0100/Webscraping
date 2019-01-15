@@ -23,7 +23,7 @@ To use this code you need to have following libraries installed
 * You need to give the name of file to save in
 * And url of page of all reviews of product
 * **url must be of the page of view all reviews**
-![alt text]#(https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/raita0100/Webscraping/blob/master/images/link.png?raw=true)
 
 ## Warning 
 This code based on windows machine
