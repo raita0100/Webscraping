@@ -1,5 +1,5 @@
 # Amazon product review collection for analysis.
-> _this project content the webscraping code for **amazon review** collection of product for further analysis.
+> _this project content the webscraping code for **amazon review** collection of product for further analysis._
 
 ## Description
 > If you ever want to buy a book and wants the review according to your wish. But the the reviews are of about 1000 peoples.At that time its better to read the book rather than the reviews.
@@ -7,4 +7,18 @@
 * statatics in graph manner.
 * then we can understad easily and quickly. and decide.
 
-> _this is only a part of my big project 
+> _this is only a part of my big project_ 
+
+# Requirements
+To use this code you need to have following libraries installed
+
+* Beautifulsoup [installation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+> This library used for webpage parsing
+
+* requests [installation](http://docs.python-requests.org/en/v2.7.0/user/install/)
+> This library used or executing url
+
+## usage 
+* you need to give the name of file to sae in
+* and url of page of all reviews of product
+
