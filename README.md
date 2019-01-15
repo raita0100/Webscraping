@@ -22,6 +22,7 @@ To use this code you need to have following libraries installed
 ## usage 
 * You need to give the name of file to save in
 * And url of page of all reviews of product
+* **url must be of the page of view all reviews**
 
 ## Warning 
 This code based on windows machine
@@ -30,4 +31,4 @@ This code based on windows machine
 
 > Just change the followinfg sign at line number 128
 
-`fname = os.getcwd()+"/_"`
+`fname = cwd+"\_"` **to** `fname = cwd+"/_"` 
