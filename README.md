@@ -5,7 +5,7 @@
 > If you ever want to buy a book and wants the review according to your wish. But the the reviews are of about 1000 peoples.At that time its better to read the book rather than the reviews.
 * how if this work can be done by the machines in fraction of seconds and gives us the statatics of reviews.
 * statatics in graph manner.
-* then we can understad easily and quickly. and decide.
+* then we can understad easily and quickly and decide.
 
 > _this is only a part of my big project_ 
 
@@ -19,6 +19,12 @@ To use this code you need to have following libraries installed
 > This library used or executing url
 
 ## usage 
-* you need to give the name of file to sae in
-* and url of page of all reviews of product
+* You need to give the name of file to save in
+* And url of page of all reviews of product
 
+## Warning 
+This code based on windows machine
+
+### For mac or linux or ubuntu
+> Just change the followinfg sign at line number
+`os.getcwd()`
